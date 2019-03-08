@@ -1,0 +1,65 @@
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\roslyn\csc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\roslyn\vbc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\XEx08Reservation.dll.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\XEx08Reservation.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\XEx08Reservation.pdb
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\obj\Debug\XEx08Reservation.csprojResolveAssemblyReference.cache
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\obj\Debug\XEx08Reservation.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx08Reservation\XEx08Reservation\obj\Debug\XEx08Reservation.pdb
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\roslyn\csc.exe
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\roslyn\vbc.exe
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\XEx08Reservation.dll.config
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\XEx08Reservation.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\XEx08Reservation.pdb
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\obj\Debug\XEx08Reservation.csprojResolveAssemblyReference.cache
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\obj\Debug\XEx08Reservation.dll
+C:\Murach\aspnet46_cs\Instructors\Extra exercises\exercises_extra\XEx08Reservation\XEx08Reservation\obj\Debug\XEx08Reservation.pdb
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\roslyn\csc.exe
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\roslyn\vbc.exe
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\roslyn\VBCSCompiler.exe
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\XEx08Reservation.dll.config
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\XEx08Reservation.dll
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\XEx08Reservation.pdb
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\obj\Debug\XEx08Reservation.csprojAssemblyReference.cache
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\obj\Debug\XEx08Reservation.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\obj\Debug\XEx08Reservation.csproj.CopyComplete
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\obj\Debug\XEx08Reservation.dll
+C:\Users\matth\Desktop\Ch08ReservationProjectStart\XEx08Reservation\XEx08Reservation\obj\Debug\XEx08Reservation.pdb
